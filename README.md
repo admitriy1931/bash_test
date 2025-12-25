@@ -1,1 +1,1 @@
-# seminar_m
+# bash_test
