@@ -1,1 +1,1 @@
-# bash_test
+# bash_scripts
